@@ -1,4 +1,4 @@
-# Streamlit emoji shortcodes with a change
+# Streamlit emoji shortcodes
 
 App showing all the emoji shortcodes supported by Streamlit
 
