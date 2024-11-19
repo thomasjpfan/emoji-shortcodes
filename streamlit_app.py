@@ -19,7 +19,7 @@ def fetch_emojis():
 
 
 """
-# Streamlit emoji shortcodes with a change in the UI
+# Streamlit emoji shortcodes this is another change
 
 Below are all the emoji shortcodes supported by Streamlit.
 
